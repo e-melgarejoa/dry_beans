@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  origin: Santiago
+  destiny: Melipilla
+  start_date: 2024-04-07
+  end_date: 2024-04-07
+  stops: 1
+  status: MyString
+  drive_route: one
+
+two:
+  origin: Melipilla
+  destiny: Pichilemu
+  start_date: 2024-04-07
+  end_date: 2024-04-07
+  stops: 1
+  status: MyString
+  drive_route: two
